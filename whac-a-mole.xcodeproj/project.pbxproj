@@ -16,6 +16,7 @@
 		5F8D31EE2A9E3FCA00FA88C8 /* whac_a_moleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F8D31ED2A9E3FCA00FA88C8 /* whac_a_moleTests.swift */; };
 		5F8D31F82A9E3FCA00FA88C8 /* whac_a_moleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F8D31F72A9E3FCA00FA88C8 /* whac_a_moleUITests.swift */; };
 		5F8D31FA2A9E3FCA00FA88C8 /* whac_a_moleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F8D31F92A9E3FCA00FA88C8 /* whac_a_moleUITestsLaunchTests.swift */; };
+		5FEE88EA2AA0DA1B00A629B6 /* PressStart2P-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5FEE88E92AA0DA1B00A629B6 /* PressStart2P-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		5F8D31F32A9E3FCA00FA88C8 /* whac-a-moleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "whac-a-moleUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F8D31F72A9E3FCA00FA88C8 /* whac_a_moleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = whac_a_moleUITests.swift; sourceTree = "<group>"; };
 		5F8D31F92A9E3FCA00FA88C8 /* whac_a_moleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = whac_a_moleUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5FEE88E92AA0DA1B00A629B6 /* PressStart2P-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "PressStart2P-Regular.ttf"; path = "../../../../../Downloads/Press_Start_2P/PressStart2P-Regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				5F8D31D62A9E3FC700FA88C8 /* AppDelegate.swift */,
 				5F8D31D82A9E3FC700FA88C8 /* SceneDelegate.swift */,
+				5FEE88E92AA0DA1B00A629B6 /* PressStart2P-Regular.ttf */,
 				5F8D31DA2A9E3FC700FA88C8 /* ViewController.swift */,
 				5F8D31DC2A9E3FC700FA88C8 /* Main.storyboard */,
 				5F8D31DF2A9E3FC900FA88C8 /* Assets.xcassets */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5FEE88EA2AA0DA1B00A629B6 /* PressStart2P-Regular.ttf in Resources */,
 				5F8D31E32A9E3FC900FA88C8 /* LaunchScreen.storyboard in Resources */,
 				5F8D31E02A9E3FC900FA88C8 /* Assets.xcassets in Resources */,
 				5F8D31DE2A9E3FC700FA88C8 /* Main.storyboard in Resources */,
